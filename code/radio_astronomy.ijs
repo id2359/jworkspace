@@ -1,4 +1,5 @@
-NB. test 
+
+NB. visibilities ?
 
 
-m =: 10 10 $ ? 100 # 100
+
