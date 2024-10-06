@@ -4,6 +4,13 @@ N =: 256
 NB. number of samples
 S =: 1024
 
+NB. time between samples
+tdelta =: 1.0 % 1000.0
+
+NB. adverb to generate samples 
+
+NB. usage:   func sample 
+
 NB. voltages at X pol input - dummy for now
 vx =: N # 0.5
 
